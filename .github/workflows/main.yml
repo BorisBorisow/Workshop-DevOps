@@ -54,7 +54,7 @@ jobs:
           context: ./frontend
           file: ./frontend/Dockerfile
           push: true
-          tags: borrisow/backend:latest
+          tags: borrisow/frontend:latest
 
 
      
